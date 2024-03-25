@@ -7,3 +7,6 @@
 -- 6. SELECT salary, name FROM players ORDER BY salary DESC LIMIT 50;
 -- 7. SELECT AVG(salary) FROM players;
 -- 8. SELECT name, position, salary FROM players WHERE salary >= 10000000;
+-- 9. SELECT salary, name FROM players ORDER BY salary DESC LIMIT 1;
+-- 10. SELECT salary, name, position FROM players ORDER BY salary ASC LIMIT 100;
+-- 11. SELECT AVG(salary) FROM players WHERE position = 'DE';
